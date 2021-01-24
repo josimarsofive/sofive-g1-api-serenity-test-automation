@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="MyFirstTest" skipped="0" tests="1" time="8.91" timestamp="2021-01-24 09:20:35"><testcase classname="MyFirstTest" name="Add two numbers"><error message="Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html'." type="java.lang.IllegalStateException">Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html'.</error><system-err>Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html'.&#13;
+io.restassured.internal.mapping.ObjectMapping.deserialize(ObjectMapping.groovy:82)&#13;
+io.restassured.internal.RestAssuredResponseOptionsGroovyImpl.as(RestAssuredResponseOptionsGroovyImpl.groovy:222)&#13;
+io.restassured.internal.RestAssuredResponseOptionsImpl.as(RestAssuredResponseOptionsImpl.java:164)&#13;
+net.serenitybdd.rest.decorators.ResponseDecorated.as(ResponseDecorated.java:63)&#13;
+MyFirstTest.addTwoNumbers(MyFirstTest.java:42)&#13;
+</system-err></testcase></testsuite>

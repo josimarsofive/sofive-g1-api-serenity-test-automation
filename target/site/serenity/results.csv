@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test one","Add two numbers","SUCCESS","2021-01-24T09:12:03.103-05:00[America/Bogota]","0.0","11.19"
+"My first test","Add two numbers","ERROR","2021-01-24T09:20:35.114-05:00[America/Bogota]","0.0","8.91"
